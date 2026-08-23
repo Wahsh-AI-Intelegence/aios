@@ -58,4 +58,4 @@ one sentence of cause → the fix → one verify command. Keep `skills/README.md
 - The local `aios` kind cluster is shared infrastructure — `claim` it in ConductorAI before a
   recreate, and remember that starting colima resurrects every kind cluster and steals their host
   ports.
-- Pushes are Evgeny's to run (`~/.Codex/rules/never-push.md`), including to `evgeny-pai/aios`.
+- Pushes are Evgeny's to run (`~/.Codex/rules/never-push.md`), including to `Wahsh-AI-Intelegence/aios`.

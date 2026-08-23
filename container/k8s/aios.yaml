@@ -249,7 +249,7 @@ spec:
         # remote a workstation clone uses — the pod carries no SSH key or known_hosts,
         # and this is a public repo, so an unauthenticated clone is the right shape.
         - name: AIOS_GIT_REMOTE
-          value: https://github.com/evgeny-pai/aios.git
+          value: https://github.com/Wahsh-AI-Intelegence/aios.git
         - name: AIOS_GIT_BRANCH
           value: main
         # Cheap to poll, but not free: git ls-remote is one round trip per interval,

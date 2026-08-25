@@ -11,3 +11,6 @@ __pycache__/
 *.pyc
 
 # aios.lock.json is deliberately NOT ignored: it is the artifact under review.
+
+# dazl-ql MCP index — machine-local code index, rebuilt on demand
+.dazl-ql/

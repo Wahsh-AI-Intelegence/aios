@@ -45,7 +45,7 @@ python3 -m aios.build status|tail|list|stop  # long-running builds, detached
 ## Skills are the compounding surface
 
 `skills/` is a **failure→fix log**, not general advice: one skill per mistake that cost real time,
-written the moment it was fixed. 45 of them, reachable as `.claude/skills` (symlink) so they load
+written the moment it was fixed. 46 of them, reachable as `.claude/skills` (symlink) so they load
 automatically. Read the matching one before repeating a mistake — it already covers the portage
 keyword trap, the subprocess-stdin hang, colima/kind restart side effects, and the zsh
 word-splitting trap.

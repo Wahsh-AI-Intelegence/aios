@@ -8,6 +8,7 @@ error text — length buries the fix.
 
 | Skill | The mistake it prevents |
 |---|---|
+| [required-use-blocks-the-set](required-use-blocks-the-set/SKILL.md) | A dependency's unmet `REQUIRED_USE` makes `forge build` plan nothing; one atom needs `emerge --oneshot` |
 | [gentoo-portage-keywords](gentoo-portage-keywords/SKILL.md) | `ACCEPT_KEYWORDS="aarch64"` — the keyword is `arm64`, and the wrong one hides every package |
 | [portage-overlay-config](portage-overlay-config/SKILL.md) | Deprecated `PORTDIR_OVERLAY` instead of `repos.conf`, warning on every emerge |
 | [python-in-shell-quoting](python-in-shell-quoting/SKILL.md) | Escaping quotes that were already literal → `SyntaxError: unexpected character after line continuation character` |
